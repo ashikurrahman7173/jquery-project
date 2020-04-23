@@ -1,0 +1,91 @@
+.body-color{
+    margin-left: 30%;
+}
+
+.body-color h2{
+    font-size: 37px;
+    font-weight: 700;
+}
+.btn{
+    border: 2px solid #ffffff;
+}
+
+select {
+    word-wrap: normal;
+    float: left;
+    margin-top: 15px;
+}
+
+.calculator {
+    margin-right:;
+    margin-top: 50px;
+}
+.btn-custom{
+    background: #dc3545;
+    color: #ffffff;
+    padding: 25px;
+}
+
+.calculator .btn {
+    border: 2px solid #ffffff;
+    width: 106px;
+    margin-top: 3px;
+}
+h4 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+.result {
+    width: 450px;
+    height: 40px;
+    background: #e9ecef;
+    border:noborder;
+    border-radius: 5px;
+    float: left;
+}
+
+.click{
+    width: 450px;
+    height: 40px;
+    background: #dc3545;
+    border-radius: 5px;
+    margin-top: 5px;
+    color: #fff;
+    font-weight: 600;
+}
+.click .btn{}
+
+.multip{
+    padding-right: 364px;
+    padding-bottom: 12px;
+    border-radius: 6px;
+    background: #e9ecef;
+}
+.multable{
+    width: 540px;
+    height: 40px;
+    background: #dc3545;
+    border-radius: 5px;
+    margin-top: 5px;
+    color: #fff;
+    font-weight: 600;
+}
+
+.multiplication{
+    margin-top: 50px;
+}
+
+
+/********ABOUT*******/
+
+
+h1{
+   
+    font-size: 40px;
+    font-weight: 600;
+}
+p{
+    margin-left: -102px;
+   left: 0;
+}

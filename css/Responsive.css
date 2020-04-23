@@ -1,0 +1,192 @@
+@media (max-width: 1199px){
+
+
+    p {
+        padding-right: 233px;
+
+    }
+
+    .body-color h2 {
+        font-size: 33px;
+        font-weight: 700;
+        text-align: center;
+        margin-left: -376px;
+    }
+
+    select {
+        word-wrap: normal;
+        margin-top: 15px;
+        float: left;
+        margin-left: -101px;
+    }
+
+    .calculator .btn {
+        border: 2px solid #ffffff;
+        width: 90px;
+        margin-top: 3px;
+    }
+
+    .multip {
+        padding-right: 272px;
+    }
+    .multable {
+        width: 447px;
+    }
+
+}
+       
+    @media (max-width: 991px){
+
+        .body-color h2 {
+           
+            margin-left: -204px;
+        }
+
+        p {
+            padding-right: 100px;
+            margin-left: -56px;
+        }
+
+        .calculator .btn {
+            border: 2px solid #ffffff;
+            width: 66px;
+            margin-top: 3px;
+            height: 66px;
+        }
+
+        .result {
+            width: 325px;
+        }
+
+        .click {
+            width: 325px;
+        }
+
+        .multip {
+            width: 330px;
+        }
+
+        .multable {
+            width: 330px;
+        }
+
+    }
+         
+    
+    @media (max-width: 767px){
+
+
+        [type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+            margin-left: -1px;
+        }
+
+        select {
+            word-wrap: normal;
+            margin-top: 15px;
+            float: left;
+            margin-left: -119px;
+        }
+
+        h1 {
+            font-size: 32px;
+            font-weight: 600;
+            margin-left: -20px;
+        }
+
+        .calculator .btn {
+           
+            width: 100px;
+            height: 100px;
+            margin-left: 2px;
+        }
+        .result {
+            width: 512px;
+            MARGIN-TOP: 20PX;
+        }
+        .click {
+            width: 512px;
+
+        }
+
+        .multip {
+            width: 512px;
+        }
+
+        .multable {
+            width: 512px;
+        }
+
+
+    }
+            
+    @media (max-width: 575px){
+        
+        
+
+
+
+    }
+         
+    
+    @media (max-width: 414px) {
+
+        .body-color h2 {
+            font-size: 25px;
+            font-weight: 700;
+            margin-right: 20;
+            display: block;
+            margin-left: -90px;
+            margin-top: 20px;
+        }
+        select {
+            word-wrap: normal;
+            margin-top: 36px;
+            margin-left: -106px;
+        }
+        .calculator .btn {
+            border: 2px solid #ffffff;
+            width: 76px;
+            margin-top: 3px;
+        }
+        .click {
+            width: 392px;
+        }
+
+        .result {
+            width: 391px;
+            margin-top: 20px;
+        }
+
+        .multable {
+            width: 390px;
+            height: 40px;
+        }
+
+        .multip {
+            width: 390px;
+            height: 40px;
+        }
+
+        h1 {
+            padding-left: -1px;
+            font-size: 22px;
+            font-weight: 600;
+        }
+
+        p {
+        
+            
+            display: block;
+            margin-left: -102px;
+            margin-right: -235px;
+        
+
+    }
+
+        [type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+            cursor: pointer;
+            margin-top: 20px;
+        }
+
+        
+    }
